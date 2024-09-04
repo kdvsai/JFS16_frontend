@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web sites</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Headings Element: heading 1</h1>
+        <h2>Headings Element: heading 2</h2>
+        <h3>Headings Element: heading 3</h3>
+        <h4>Headings Element: heading 4</h4>
+        <h5>Headings Element: heading 5</h5>
+        <h6>Headings Element: heading 6</h6>
+        <p>This is para</p>
+        <span>This is span.Span is a inline element.</span>
+        <div>Divison is a block level element.</div>
+        <br>
+        <hr>
+        <button>click me</button>
+        <img src="/photos/codegnan logo.jpeg" alt="codegnan">
+        <header>Header, sematic element</header>
+        <section>Section sematic element</section>
+        <footer>Footer semaric element</footer>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus dolor autem est quibusdam cupiditate culpa iste deleniti aperiam odio. Placeat et doloribus asperiores quod aut praesentium ipsa, neque voluptatibus quia.</p>
+    </div>
+</body>
+</html>
